@@ -4,7 +4,7 @@ ApenPost is a minitype post-processing software for DEM (Discrete Element Method
 
 Author: 
 
-Kai Yao (Undergraduate Student @ Fudan University a.t.t), kaiyao94@outlook.com
+Kai Yao (Undergraduate Student @ Fudan University a.t.t), kaiyao94@outlook.com  
 Jun Huang (Vice Professor @ Fudan University a.t.t), jun_huang@fudan.edu.cn
 
 Launch Date:
